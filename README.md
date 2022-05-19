@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # I'm SoHyeon Kim 👀
 
 🐤 To be Growing Backend Developers 
