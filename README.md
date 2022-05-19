@@ -1,6 +1,6 @@
 # SoHyeon Kim 👀
 
-🐤 To be Growing Backend Developers 
+🐤 To be Growing Backend Developer
 
 ### Skills / I've used ..
 
