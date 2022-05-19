@@ -1,4 +1,4 @@
-# I'm SoHyeon Kim 👀
+# SoHyeon Kim 👀
 
 🐤 To be Growing Backend Developers 
 
