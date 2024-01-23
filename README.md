@@ -13,9 +13,9 @@
 |Project|Description|Team||
 |------|---|---|---|
 |[소프티](https://github.com/Team-Sopetit/Sopetit-server)|멘탈 케어 루틴 서비스|SOPT 33기 APPJAM|2023.12.17~|
-|[SOPT 메이커스 운영 프로덕트팀](https://github.com/sopt-makers/sopt-operation-backend)|출석 관리 서비스|SOPT 메이커스 2기|2023.02 - 2024.01|
+|[SOPT 메이커스 운영 프로덕트팀](https://github.com/sopt-makers/sopt-operation-backend)|출석 관리 서비스|SOPT Makers 2기|2023.02 - 2024.01|
 |[SMEEM](https://github.com/Team-Smeme/Smeme-server-renewal)|영어 일기 서비스|SOPT 31기 APPJAM|2023.01 -|
-|[조물주보다 생일 선물주](https://github.com/Make-A-Wish-Sopt/Make-A-Wish-Server)|생일 선물 펀딩 서비스|SOPT 32기 SOPTERM|2023.05 - 2023.09|
+|[조물주보다 생일 선물주](https://github.com/Make-A-Wish-Sopt/Make-A-Wish-Server)|생일 선물 펀딩 서비스|SOPT 32기 SOPTERM|2023.05 - 2023.09|
 |[탐라주](https://github.com/TamraZu/TamlaJu-Server)|제주 전통주 도감 서비스|구름톤 5기|2023.03 - 2023.04|
 |[Hype](https://github.com/prgrms-web-devcourse/Team-6Jeans-Hype-BE)|음악 추천 대결 서비스|프로그래머스 데브코스 백엔드 3기|2023.02 - 2023.03|
 
