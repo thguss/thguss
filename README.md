@@ -8,7 +8,7 @@
 
 <br/>
 
-### History
+### Project
 
 |Project|Description|Team||
 |------|---|---|---|
@@ -19,6 +19,19 @@
 |[탐라주](https://github.com/TamraZu/TamlaJu-Server)|제주 전통주 도감 서비스|구름톤 5기|2023.03 - 2023.04|
 |[Hype](https://github.com/prgrms-web-devcourse/Team-6Jeans-Hype-BE)|음악 추천 대결 서비스|프로그래머스 데브코스 백엔드 3기|2023.02 - 2023.03|
 
+
+<br/>
+
+### Study
+
+|Contents||
+|------|--|
+|[토비의 스프링 3.1](https://github.com/Team-Sopetit/server-spring-study)|24.01.01 ~ |
+|[Spring Cloud로 개발하는 MSA](https://github.com/SPRING-STUDY-2023/sohyeon-spring-cloud-msa)|23.09.06 ~ 24.01.24|
+|[실전 Querydsl 강의 실습](https://github.com/SPRING-STUDY-2023/sohyeon-query-dsl)|23.03.17 ~ 23.03.30|
+|[실전! 스프링 데이터 JPA 강의 실습](https://github.com/SPRING-STUDY-2023/sohyeon-spring-jpa)|23.03.10 ~ 23.03.16|
+|[실전 스프링 부트와 JPA 활용 강의 실습](https://github.com/SPRING-STUDY-2023/sohyeon-springboot-jpa-application)|23.02.17 ~ 23.03.09|
+|[자바 ORM JPA 강의 실습](https://github.com/SPRING-STUDY-2023/sohyeon-java-orm-jpa)|23.01.31 ~ 23.02.16|
 
 <br/>
 
