@@ -26,6 +26,7 @@
 
 |Contents||
 |------|--|
+|[실전 카프카 개발부터 운영까지](https://github.com/mash-up-kr/S3A/tree/master/14th_kafka)|24.04.02 ~ |
 |[토비의 스프링 3.1](https://github.com/Team-Sopetit/server-spring-study)|24.01.01 ~ |
 |[Spring Cloud로 개발하는 MSA](https://github.com/SPRING-STUDY-2023/sohyeon-spring-cloud-msa)|23.09.06 ~ 24.01.24|
 |[실전 Querydsl 강의 실습](https://github.com/SPRING-STUDY-2023/sohyeon-query-dsl)|23.03.17 ~ 23.03.30|
