@@ -28,6 +28,7 @@
 |------|--|
 |[가상 면접 사례로 배우는 대규모 시스템 설계 기초2](https://github.com/SPRING-STUDY-2023/System-Design-Interview2/tree/main)|24.05.06 ~ |
 |[실전 카프카 개발부터 운영까지](https://github.com/mash-up-kr/S3A/tree/master/14th_kafka)|24.04.04 ~ |
+|[가상 면접 사례로 배우는 대규모 시스템 설계 기초1](https://github.com/SPRING-STUDY-2023/System-Design-Interview)|24.02.20 ~ 24.04.30|
 |[토비의 스프링 3.1](https://github.com/Team-Sopetit/server-spring-study)|24.01.01 ~ |
 |[Spring Cloud로 개발하는 MSA](https://github.com/SPRING-STUDY-2023/sohyeon-spring-cloud-msa)|23.09.06 ~ 24.01.24|
 |[실전 Querydsl 강의 실습](https://github.com/SPRING-STUDY-2023/sohyeon-query-dsl)|23.03.17 ~ 23.03.30|
