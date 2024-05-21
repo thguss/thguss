@@ -12,6 +12,7 @@
 
 |Project|Description|Team||
 |------|---|---|---|
+|[피키](https://github.com/mash-up-kr/piikii_Spring)|모임 서비스|MASH-UP 14기 프로젝트|2024.05.20 ~|
 |[소프티](https://github.com/Team-Sopetit/Sopetit-server)|멘탈 케어 루틴 서비스|SOPT 33기 APPJAM|2023.12.17~|
 |[SOPT 메이커스 운영 프로덕트팀](https://github.com/sopt-makers/sopt-operation-backend)|출석 관리 서비스|SOPT Makers 2기|2023.02 - 2024.01|
 |[SMEEM](https://github.com/Team-Smeme/Smeme-server-renewal)|영어 일기 서비스|SOPT 31기 APPJAM|2023.01 -|
